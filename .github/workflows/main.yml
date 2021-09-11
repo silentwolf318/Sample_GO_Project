@@ -1,4 +1,4 @@
-name: PHP application
+name: GO application
 
 on:
   push:
